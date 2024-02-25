@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-25T18:32:17 EET" name="Default suite" finished-at="2024-02-25T18:33:25 EET" duration-ms="67846">
+    <groups>
+    </groups>
+    <test started-at="2024-02-25T18:32:17 EET" name="Default test" finished-at="2024-02-25T18:33:25 EET" duration-ms="67846">
+      <class name="magentoProject.myTestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:32:17 EET" name="setup" finished-at="2024-02-25T18:32:21 EET" duration-ms="3328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createAccount()[pri:1, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:32:21 EET" name="createAccount" finished-at="2024-02-25T18:32:29 EET" duration-ms="7731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="logout()[pri:2, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:32:29 EET" name="logout" finished-at="2024-02-25T18:32:38 EET" duration-ms="9663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="signIn()[pri:3, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:32:38 EET" name="signIn" finished-at="2024-02-25T18:32:45 EET" duration-ms="6260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="theSubscriptionProcess()[pri:4, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:32:45 EET" name="theSubscriptionProcess" finished-at="2024-02-25T18:32:54 EET" duration-ms="9753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theSubscriptionProcess -->
+        <test-method signature="addLastTwoItems()[pri:5, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:32:54 EET" name="addLastTwoItems" finished-at="2024-02-25T18:33:23 EET" duration-ms="28708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLastTwoItems -->
+        <test-method signature="sortItems()[pri:6, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:33:23 EET" name="sortItems" finished-at="2024-02-25T18:33:25 EET" duration-ms="2358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortItems -->
+        <test-method is-config="true" signature="postTest()[pri:0, instance:magentoProject.myTestCases@3e821657]" started-at="2024-02-25T18:33:25 EET" name="postTest" finished-at="2024-02-25T18:33:25 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postTest -->
+      </class> <!-- magentoProject.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
